@@ -6,5 +6,5 @@ For this project, I used an old PC with an Intel i6-6600 3.3Ghz quad-core proces
 You'll need something similar to this with not necessarily the same amount of RAM, but having multiple cores to support multiple VMs is important.  
 
 # Step 1 - Download Proxmox VE 8.4 .iso
-Navigate to the Proxmox website for the .iso of Proxmox VE 8.4, and click on the Downloads tab. Next, download
+Navigate to the Proxmox website for the .iso of Proxmox VE 8.4, and click on the Downloads tab. Next, download  
 <img src="docs/images/proxmox-step1.jpg" alt="Proxmox Downloads page showing necessary .iso" width="50%" height="50%"> 
