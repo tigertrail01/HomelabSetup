@@ -7,4 +7,4 @@ You'll need something similar to this with not necessarily the same amount of RA
 
 # Step 1 - Download Proxmox VE 8.4 .iso
 Navigate to the Proxmox website for the .iso of Proxmox VE 8.4, and click on the Downloads tab. Next, download  
-<img src="docs/images/proxmox-step1.jpg" alt="Proxmox Downloads page showing necessary .iso" width="50%" height="50%"> 
+<img src="main/docs/images/proxmox-step1.jpg" alt="Proxmox Downloads page showing necessary .iso" width="50%" height="50%"> 
